@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 4564352e534feab419fcb78349fec1cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4519219222947293897
+    second: UNO-Front (1)_0
+  - first:
+      213: 4640698079344612192
+    second: UNO-Front (1)_1
+  - first:
+      213: 6572989465597206869
+    second: UNO-Front (1)_2
+  - first:
+      213: 1658433381298535319
+    second: UNO-Front (1)_3
+  - first:
+      213: 3038334008677049825
+    second: UNO-Front (1)_4
+  - first:
+      213: -1688914573259852936
+    second: UNO-Front (1)_5
+  - first:
+      213: 6148375529629453385
+    second: UNO-Front (1)_6
+  - first:
+      213: -5349305108179422223
+    second: UNO-Front (1)_7
+  - first:
+      213: 8364288466340764089
+    second: UNO-Front (1)_8
+  - first:
+      213: 4859790032542411783
+    second: UNO-Front (1)_9
+  - first:
+      213: -2438958820703783615
+    second: UNO-Front (1)_10
+  - first:
+      213: 1745323674001568949
+    second: UNO-Front (1)_11
+  - first:
+      213: 8902277207313954450
+    second: UNO-Front (1)_12
+  - first:
+      213: 6111775080936775520
+    second: UNO-Front (1)_13
+  - first:
+      213: -1173305305900353345
+    second: UNO-Front (1)_14
+  - first:
+      213: -6225242469388246930
+    second: UNO-Front (1)_15
+  - first:
+      213: 6016549344457551703
+    second: UNO-Front (1)_16
+  - first:
+      213: -817673377655981557
+    second: UNO-Front (1)_17
+  - first:
+      213: 6556368923939951059
+    second: UNO-Front (1)_18
+  - first:
+      213: -8198179837050660738
+    second: UNO-Front (1)_19
+  - first:
+      213: 4807827662622680847
+    second: UNO-Front (1)_20
+  - first:
+      213: -5857105606155961484
+    second: UNO-Front (1)_21
+  - first:
+      213: 3991565446578466442
+    second: UNO-Front (1)_22
+  - first:
+      213: -4710948223113516934
+    second: UNO-Front (1)_23
+  - first:
+      213: 3528232265993009934
+    second: UNO-Front (1)_24
+  - first:
+      213: 3955194930217111178
+    second: UNO-Front (1)_25
+  - first:
+      213: 5488526535809042286
+    second: UNO-Front (1)_26
+  - first:
+      213: 7485477892478883551
+    second: UNO-Front (1)_27
+  - first:
+      213: -3426379704632303580
+    second: UNO-Front (1)_28
+  - first:
+      213: -1916142511128393252
+    second: UNO-Front (1)_29
+  - first:
+      213: -7974144405185314993
+    second: UNO-Front (1)_30
+  - first:
+      213: 3613824325335414285
+    second: UNO-Front (1)_31
+  - first:
+      213: 328939013980969217
+    second: UNO-Front (1)_32
+  - first:
+      213: 5781489489684421230
+    second: UNO-Front (1)_33
+  - first:
+      213: 4163617142622623764
+    second: UNO-Front (1)_34
+  - first:
+      213: 1511843968995950884
+    second: UNO-Front (1)_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 170
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNO-Front (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3519
+        width: 407
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c05277e056d254f8435e227dfe12d8
+      internalID: 4519219222947293897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 3521
+        width: 405
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ebd825977fdad46af95d5026cd4062
+      internalID: 4640698079344612192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3509
+        width: 406
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423d347304c603b4196f83c717133729
+      internalID: 6572989465597206869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 3509
+        width: 409
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6711c82d76e7e044493ba03950cf9303
+      internalID: 1658433381298535319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3509
+        width: 409
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7def9b471f0854fba3c6aebfa6d2ae
+      internalID: 3038334008677049825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3516
+        width: 407
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d33d2c948178e47bcecad221ea5ca6
+      internalID: -1688914573259852936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3512
+        width: 409
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dcbb49076c9d24285e205a54a34b93
+      internalID: 6148375529629453385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 3510
+        width: 408
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed613fe73d82d6d479e4b50211dcade6
+      internalID: -5349305108179422223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 3511
+        width: 408
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74bdb9738b8ccb4e9d236ee7c77eb1d
+      internalID: 8364288466340764089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2926
+        width: 407
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1e8ce892d4711488c78505ae42a924
+      internalID: 4859790032542411783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2926
+        width: 409
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b531c07808a8f684da19d58a5b0232f7
+      internalID: -2438958820703783615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2925
+        width: 408
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bf4a715fc824e47bd1067019793262
+      internalID: 1745323674001568949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 2925
+        width: 410
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7586b423da07c0240a7aecd41d24fbfe
+      internalID: 8902277207313954450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2925
+        width: 409
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1bc5ba4052874e8fe22807130d3ca
+      internalID: 6111775080936775520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_14
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2926
+        width: 409
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02145a8f3522b7419c7f3abb9f5781a
+      internalID: -1173305305900353345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_15
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2926
+        width: 409
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67cf545d5b6fa54ba52db5a0c5a68c6
+      internalID: -6225242469388246930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_16
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 2926
+        width: 409
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaba65d026212f40b1271526dbb2f84
+      internalID: 6016549344457551703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_17
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 2923
+        width: 408
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd21ee38717c30a4f9842982062a34e0
+      internalID: -817673377655981557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2341
+        width: 408
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bec3bc1f4f73ff46acdfac8736f012a
+      internalID: 6556368923939951059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2342
+        width: 407
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fead66ab6d14644a0334c90934e6d1
+      internalID: -8198179837050660738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_20
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2342
+        width: 407
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725ba5dd6c53bf4c87ea14e3bfec167
+      internalID: 4807827662622680847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2340
+        width: 407
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8ac0e2e62abff4fa0034635129d543
+      internalID: -5857105606155961484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2340
+        width: 405
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40423316e4c4fed428087650ac3df3c7
+      internalID: 3991565446578466442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 2346
+        width: 404
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2e39d799ef75e489e85625ce8c7e51
+      internalID: -4710948223113516934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_24
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 2346
+        width: 408
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd1fec345650ad4fa0a09e1a490b83d
+      internalID: 3528232265993009934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_25
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2341
+        width: 409
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bf43e899bbb37419a6a3b29c5e5365
+      internalID: 3955194930217111178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_26
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 2344
+        width: 405
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4f315771de2f243a393b9881d2023d
+      internalID: 5488526535809042286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1756
+        width: 407
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61418b13b23b78e4282ff5d3fa50d23c
+      internalID: 7485477892478883551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1756
+        width: 406
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c78a7a6857d4e34992dc7278cdce8d8
+      internalID: -3426379704632303580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1757
+        width: 408
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bd19f913856cc4ba13c58942b22986
+      internalID: -1916142511128393252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1755
+        width: 409
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20923d908fc8eb349ab9222f8b7c545c
+      internalID: -7974144405185314993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1755
+        width: 406
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b357e79b026ee6e468a0fd1e344eaa0a
+      internalID: 3613824325335414285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_32
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1754
+        width: 403
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49974050a9e50504088ab0dc532f7c3e
+      internalID: 328939013980969217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_33
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 1757
+        width: 408
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf63503a1530dcd4ba63f0edf46cbbb0
+      internalID: 5781489489684421230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_34
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 1755
+        width: 410
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccaab731e3c23042bc58ae7c6e68644
+      internalID: 4163617142622623764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNO-Front (1)_35
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 1757
+        width: 406
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7827e46d380f740b690f44bbfa56a9
+      internalID: 1511843968995950884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

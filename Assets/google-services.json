@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528717511507",
+    "firebase_url": "https://puzzlepieces-f1307.firebaseio.com",
+    "project_id": "puzzlepieces-f1307",
+    "storage_bucket": "puzzlepieces-f1307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528717511507:android:9d7cf6a8e84a1adaf0ffa6",
+        "android_client_info": {
+          "package_name": "com.puzzle.edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528717511507-3j4i6u13jgqs1b8ek1i9fqqb7u98ltcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwxX13dEsI89XiC8J45TqFttSLlTRN5fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528717511507-3j4i6u13jgqs1b8ek1i9fqqb7u98ltcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

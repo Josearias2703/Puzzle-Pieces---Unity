@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c3ad277d989b95344ab476f8b8c5e903
+  - enabled: 1
+    path: Assets/Scenes/Cartas.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Palabras.unity
+    guid: 17fdd45e8150bac42af1991448732d10
+  - enabled: 1
+    path: Assets/Scenes/PalabrasNormal.unity
+    guid: 45367e492b6a33f498e4a2bc5593d6a2
+  - enabled: 1
+    path: Assets/Scenes/CartasFacil.unity
+    guid: d2b932540f33fb94797061b18a4a33ba
+  - enabled: 1
+    path: Assets/Scenes/CartasDificil.unity
+    guid: 4518e9998b54c3a43a95d31bea34eef8
+  - enabled: 1
+    path: Assets/Scenes/PalabrasDificil.unity
+    guid: 5ceb166170227554ba365690b782decd
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
